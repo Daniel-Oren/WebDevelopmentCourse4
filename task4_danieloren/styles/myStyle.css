@@ -1,0 +1,113 @@
+body 
+{
+    direction:rtl;
+    background-color:#EFEEE6;
+}
+#container{
+    margin: 0 auto;
+    width: 960px;
+    height: 1170px;
+    background-color: white;
+    font-family: Calibri;
+}
+h1{
+      font-size: 60px;
+    color: #008285;
+    margin-top: 20px;
+    float: right;
+    margin-right: 10px;
+}
+#hitlogo{
+    float:left;
+    margin-top:20px;
+    margin-left:10px;
+}
+#telem{
+    font-size:50px;
+    font-weight:bold;
+}
+#design{
+    color: #B56E7C;
+    margin-top: 10px;
+    display: inline-block;
+    margin-right: 20px;
+}
+#edu{
+    color: #A8CCC5;
+    display: inline-block;
+    margin-top: 10px;
+    margin-right: 215px;
+}
+#tech{
+    color: #7FBCD8;
+    margin-top: 10px;
+    display: inline-block;
+    margin-right: 160px;
+}
+h2{
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 20px;
+    color: #008285;
+    margin-right: 10px;
+}
+ul{
+    list-style-type: circle;
+    margin:20px;
+}
+li{
+      margin:10px;
+      font-size:20px;
+}
+#tlm{
+    font-size:18px;
+    font-weight:bold;
+    text-decoration: none;
+  
+    color:white;
+    background-color:#7FBCD8;
+    padding:3px;
+     -webkit-border-radius: 2px 2px 2px 2px;
+    border-radius: 2px 2px 2px 2px;
+    background-position:center;
+    text-align:center;
+
+}
+#tlm:hover{
+    background-color:#008285;
+}
+#tlm:active {
+        background-color: #A8CCC5;
+    }
+aside{
+      margin-right:10px;
+    margin-top:20px;
+}
+label{
+    display:block;
+    margin-top:10px;
+}
+
+ input[type ='submit']{
+     display:block;
+}
+form{
+    margin-right:20px;
+    display:block;
+}
+#kesher{
+    -webkit-border-radius: 3px 3px 3px 3px;
+    border-radius: 3px 3px 3px 3px;
+    background-color:#A8CCC5;
+    width: 350px;
+    padding: 10px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+#myArea{
+    font-family: Calibri;
+}
+
+
+
+  
